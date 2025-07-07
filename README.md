@@ -24,7 +24,7 @@ In this analysis, we explore the sales performance data of Ace Superstore to gai
 - Categories like **Automotive** and **Art Supplies** have significant sales but varying revenue across regions.
   
 #### Visualization:
-![Sales by Region](visualizations/sales_by_region.png)
+![Sales by Region](Ace_Superstore_Analysis/visualizations/sales_by_region.png)
 *Bar chart showing total sales by region.*
 
 ### **Sales Distribution Across Order Mode (Online vs In-Store)**
@@ -33,7 +33,7 @@ In this analysis, we explore the sales performance data of Ace Superstore to gai
 - **Online orders** generate slightly higher total sales compared to **In-store** sales. This suggests that customers prefer shopping online over visiting stores.
   
 #### Visualization:
-![Sales Distribution by Order Mode](visualizations/sales_distribution_by_order_mode.png)
+![Sales Distribution by Order Mode](Ace_Superstore_Analysis/visualizations/sales_distribution_by_order_mode.png)
 *Pie chart showing the distribution of sales between online and in-store orders.*
 
 ### **Top 5 Best-Selling Products by Revenue**
@@ -43,7 +43,7 @@ In this analysis, we explore the sales performance data of Ace Superstore to gai
 - Other popular products include the **Digital Camera** and **Compact Digital Camera**.
 
 #### Visualization:
-![Top 5 Best-Selling Products](visualizations/top_5_best_selling_products.png)
+![Top 5 Best-Selling Products](Ace_Superstore_Analysis/visualizations/top_5_best_selling_products.png)
 *Bar chart showing the top 5 best-selling products by revenue.*
 
 ### **Product Categories with the Highest Margins**
